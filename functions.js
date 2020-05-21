@@ -157,7 +157,7 @@ function shoppingList(item1, numItems) {
 
 function standInLine(nextInLine, inLine) {
    // array5: Line
-   // inLine: Disired number to put in line
+   // nextInLine: Disired number to put in line
    // R: Array with new number in line, nextInLine stored in console
 
    var array5 = [1, 2, 3, 4, 5];
