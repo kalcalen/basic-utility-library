@@ -120,7 +120,7 @@ function bracketNotationNth2Last(input, inputNumber) {
 function arrayPush(inputPush) {
    var array1 = ["10,55,23"];
    array1.push(inputPush);
-   return arr1;
+   return array1;
 }
 
 function arrayPop() {
